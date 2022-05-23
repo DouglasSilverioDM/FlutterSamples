@@ -2,11 +2,13 @@
 Este repositório contém exemplos de código Flutter
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+
+Para instalação do Flutter é necessário (Ambiente de desenvolvimento Windows)
+
+1.	[Installation process](https://docs.flutter.dev/get-started/install)
+2.	[Software dependencies](https://developer.android.com/)
+3.	Check if it is working well - command "flutter doctor"
+4.	[API references](https://docs.flutter.dev/)
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
